@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Evento</string>
+    <string name="choose_role">Choose Role</string>
+    <string name="participants">Participants</string>
+    <string name="volunteers">Volunteers</string>
+    <string name="organizers">Organizers</string>
+
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="already_account">Already Registered?</string>
+    <string name="participant_dashboard">Participant Dashboard</string>
+    <string name="organizer_dashboard">Organizers Dashboard</string>
+    <string name="volunteer_dashboard">Volunteer Dashboard</string>
+    <string name="organizer_create_event">Create an Event</string>
+    <string name="organizer_create">Create</string>
+    <string name="logout">Logout</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_time">Event Time</string>
+    <string name="event_desc">Event Description</string>
+    <string name="event_loc">Event Location</string>
+    <string name="participant_show_events">Participate in Events</string>
+    <string name="organizer_show_events">Show Ongoing Events</string>
+    <string name="volunteer_show_events">Volunteer in Events</string>
+    <string name="ongoing_events">Ongoing Events</string>
+
+
+    <string name="amount">Enter Amount to Pay</string>
+    <string name="desc">Event Name</string>
+    <string name="pay">Pay</string>
+    <string name="show_qr">My QR Code</string>
+
+    <string name="mark_attendance">Mark Attendance</string>
+
+    <string name="splashDesc">The icon of the app on the splash screen</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="chatbox">Chatbox</string>
+    <string name="send_button">Send</string>
+
+    <string name="donate">Donate</string>
+
+    <string name="valueText">TextView</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="background_image">background image</string>
+    <string name="chat_input">Chat input</string>
+    <string name="register_fee">Register Fee</string>
+    <string name="register">Register</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="venue">Venue</string>
+    <string name="event_description">Event Description</string>
+    <string name="event_name1">Event Name</string>
+</resources>
